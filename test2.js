@@ -1,5 +1,5 @@
 const fruits = ['Virtual Drives', 'Physical Drives'];
-const text = 'erherhe rhe Virtual Drives TEST : 5 e12135 Virtual Drives   : 9 Physical Drives : 3 sfsfdsgery';
+const text = 'erherhe rhe Virtual Drives : 5 e12135 Virtual Drives   : 9 Physical Drives : 3 sfsfdsgery';
 
 function getProp(text, ary) {
   var result = [];
