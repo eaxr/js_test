@@ -10,7 +10,7 @@ function getProp(text, ary) {
     const find = '('+ name + ')\\s+: (\\d+)';
     const regx =  new RegExp(find, 'g');
     result[a] = text.match(regx);
-    console.log(result[a]);
+    //console.log(result[a]);
     for (let res of result[a]) {
       const value = res.match(/\d+/g);
       obj[name] = Number(value);
