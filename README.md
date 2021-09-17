@@ -1,7 +1,5 @@
 # js_test
 
-![alt text](https://github.com/eaxr/js_test/blob/main/testnodejs.PNG?raw=true)
-
 ============================================================================
 ```
 test1.js results:
@@ -15,4 +13,6 @@ test2.js results:
 Virtual Drives = 9
 Physical Drives = 3
 ```
+![alt text](https://github.com/eaxr/js_test/blob/main/testnodejs.PNG?raw=true)
+
 ============================================================================
