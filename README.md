@@ -1,6 +1,6 @@
 # js_test
 
-![alt text](https://github.com/eaxr/js_test/blob/master/testnodejs.PNG?raw=true)
+![alt text](https://github.com/eaxr/js_test/blob/main/testnodejs.PNG?raw=true)
 
 ===============================================================================
 ```
